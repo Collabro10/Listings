@@ -1,4 +1,9 @@
-# Listings
+# Listed iOS Task
 
-![0](Images/image1.png)
-![1](Images/image2.png)
+This task was assigned to me by the Listed team for the role of iOS developer.
+
+
+## App Preview
+
+<img src="./Images/image1.png" height="500px" style="padding:50px"/>
+<img src="./Images/image2.png" height="500px" style="padding:50px"/>
